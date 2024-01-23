@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+}
+
+body {
+    display: grid;
+    position: absolute;
+    left: 50%;
+    top: 60%;
+    transform: translateX(-50%);
+    justify-content: center;
+    justify-items: center;
+}
+
+input {
+    width: 100%;
+}
+
+button {
+    width: 50%;
+}
+
+img {
+    position: absolute;
+    top: -150%;
+    scale: 2;
+    
+}
